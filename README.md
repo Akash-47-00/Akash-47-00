@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash</h1>
+<h1 align="center">Hi 👋, I'm Reajul Islam Akash</h1>
 <h3 align="center">I'm passionate about Artificial Intelligence, cutting-edge technology, and building things that can make a real difference in the world.</h3>
 
 - 🔭 I’m currently working on **Bank Management System**
